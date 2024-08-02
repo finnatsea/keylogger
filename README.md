@@ -32,6 +32,8 @@ To run the application now (note: you will need to run the `sudo make startup` c
 
 ```bash
 $ sudo make load
+wont work use: 
+launchctl load /Library/LaunchDaemons/keylogger.plist
 ```
 
 To quit the application now (note: you will need to run the `sudo make startup` command first)::
